@@ -1,14 +1,20 @@
-#include <stdio.h>
+ #include <stdio.h>
+
+
 
 /**
  *
- *  *main- Serves as the entry point for the program
+ * * main - print the string in the put function
  *
- *   *
+ * *
  *
- *    *Return: By default returns zero if no erros otherwise returns non-zero value.
+ * * Description: using the main function
  *
- *     */
+ * * this program prints "Programming is like building a multilingual puzzle
+ *
+ * * Return: 0
+ *
+ * */
 
 int main(void)
 
